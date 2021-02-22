@@ -4,7 +4,7 @@
     "occupation":"Full-Stack Developer ",
     "description":"As a fresh Flatiron graduate, I'm actively seeking a position as a fullstack, front-end or backend engineer. Currently I have familiarity with Ruby and Javascript. Daily I'm putting effort into having more knowledge of these and other programming languages to aid in becoming a beter programmer.",
     "image":"profilepic.jpg",
-    "bio":"I've been a resident of Charleston, SC for most of my life. As a recent graduate of the Flatiron School, I'm now currently seeking new experiences and opportunities to provide my skills and understanding of code. Im also interested in contributing to a live code base and help work towards making company applications perform with better funcionality.",
+    "bio":"I've been a resident of Charleston, SC for most of my life. As a recent graduate of the Flatiron School, I'm now currently seeking new experiences and opportunities to provide my skills and understanding of code. I'm also interested in contributing to a live code base and help work towards making company applications perform with better functionality.",
     "contactmessage":"",
     "email": "cohendevworks@gmail.com",
     "phone": "843-437-6328",
@@ -61,13 +61,13 @@
         "school":"Flatiron School",
         "degree":"Certificate of Completion",
         "graduated":"January 2021",
-        "description":"I created a protfolio of five different projects, the most relevant being projects using Ruby on Rails, vanilla JavaSciprt and React"
+        "description":"I created a portfolio of five different projects, the most relevant being projects using Ruby on Rails, vanilla JavaScript and React"
       },
       {
         "school":"University of South Carolina",
         "degree":"Bachelors of Arts",
         "graduated":"May 2010",
-        "description":"I studied media arts with a concentration in audio. Here is where I had my first experience with coding websites."
+        "description":"I studied media arts with a concentration in Audio Engineering/Production. Here is where I had my first experience with coding websites."
       }
     ],
     "work":[
