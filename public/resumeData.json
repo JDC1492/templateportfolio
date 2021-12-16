@@ -1,163 +1,144 @@
 {
   "main": {
-    "name":"Jonathan Cohen",
-    "occupation":"Full-Stack Developer ",
-    "description":"As a fresh Flatiron graduate, I'm actively seeking a position as a fullstack, front-end or backend engineer. Currently I have familiarity with Ruby and Javascript. Daily I'm putting effort into having more knowledge of these and other programming languages to aid in becoming a beter programmer.",
-    "image":"profilepic.jpg",
-    "bio":"I've been a resident of Charleston, SC for most of my life. As a recent graduate of the Flatiron School, I'm now currently seeking new experiences and opportunities to provide my skills and understanding of code. I'm also interested in contributing to a live code base and help work towards making company applications perform with better functionality.",
-    "contactmessage":"",
+    "name": "Jonathan Cohen",
+    "occupation": "Full-Stack Developer ",
+    "description": "As a fresh Flatiron graduate, I'm actively seeking a position as a fullstack, front-end or backend engineer. Currently I have familiarity with Ruby and Javascript. Daily I'm putting effort into having more knowledge of these and other programming languages to aid in becoming a beter programmer.",
+    "image": "profilepic.jpg",
+    "bio": "I've been a resident of Charleston, SC for most of my life. As a recent graduate of the Flatiron School, I'm now currently seeking new experiences and opportunities to provide my skills and understanding of code. I'm also interested in contributing to a live code base and help work towards making company applications perform with better functionality.",
+    "contactmessage": "",
     "email": "cohendevworks@gmail.com",
     "phone": "843-437-6328",
-    "address":{
-      "street":"(Your Street)",
-      "city":"Charleston",
-      "state":"South Carolina",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Charleston",
+      "state": "South Carolina",
       "zip": "29492"
     },
     "website": "",
-    "resumedownload":"",
-    "social":[
+    "resumedownload": "",
+    "social": [
       {
-        "name":"facebook",
-        "url":"",
-        "className":""
+        "name": "",
+        "url": "",
+        "className": ""
       },
       {
-        "name":"",
-        "url":"",
-        "className":""
+        "name": "",
+        "url": "",
+        "className": ""
       },
       {
-        "name":"",
-        "url":"",
-        "className":""
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jonathan-cohen-bbb2891b4/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/jonathan-cohen-bbb2891b4/",
-        "className":"fa fa-linkedin"
+        "name": "github",
+        "url": "https://github.com/JDC1492",
+        "className": "fa fa-github"
       },
       {
-        "name":"github",
-        "url":"https://github.com/JDC1492",
-        "className":"fa fa-github"
+        "name": "",
+        "url": "",
+        "className": ""
       },
       {
-        "name":"",
-        "url":"",
-        "className":""
-      },
-      {
-        "name":"",
-        "url":"",
-        "className":""
+        "name": "",
+        "url": "",
+        "className": ""
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Seeking to use the Skills that I've learned in bootcamp in real world experiences:",
-    "education":[
+  "resume": {
+    "skillmessage": "Seeking to use the Skills that I've learned in bootcamp in real world experiences:",
+    "education": [
       {
-        "school":"Flatiron School",
-        "degree":"Certificate of Completion",
-        "graduated":"January 2021",
-        "description":"I created a portfolio of five different projects, the most relevant being projects using Ruby on Rails, vanilla JavaScript and React"
+        "school": "Flatiron School",
+        "degree": "Certificate of Completion",
+        "graduated": "January 2021",
+        "description": "I created a portfolio of five different projects, the most relevant being projects using Ruby on Rails, vanilla JavaScript and React"
       },
       {
-        "school":"University of South Carolina",
-        "degree":"Bachelors of Arts",
-        "graduated":"May 2010",
-        "description":"I studied media arts with a concentration in Audio Engineering/Production. Here is where I had my first experience with coding websites."
+        "school": "University of South Carolina",
+        "degree": "Bachelors of Arts",
+        "graduated": "May 2010",
+        "description": "I studied media arts with a concentration in Audio Engineering/Production. Here is where I had my first experience with coding websites."
       }
     ],
-    "work":[
+    "skills": [
       {
-        "company":"",
-        "title":"",
-        "years":"",
-        "description":""
+        "name": "Git",
+        "level": "40%"
       },
       {
-        "company":"",
-        "title":"",
-        "years":"",
-        "description":""
-      }
-    ],
-    "skills":[
-      {
-        "name":"Git",
-        "level":"40%"
+        "name": "Ruby on Rails",
+        "level": "55%"
       },
       {
-        "name":"Ruby on Rails",
-        "level":"55%"
+        "name": "ReactJs",
+        "level": "50%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "CSS",
+        "level": "45%"
       },
       {
-        "name":"CSS",
-        "level":"45%"
+        "name": "HTML5",
+        "level": "45%"
       },
       {
-        "name":"HTML5",
-        "level":"45%"
+        "name": "JavaScript",
+        "level": "50%"
       },
       {
-        "name":"JavaScript",
-        "level":"50%"
-      },
-      {
-        "name":"Ruby",
-        "level":"60%"
+        "name": "Ruby",
+        "level": "60%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Greenhouse",
-        "category":"",
-        "image":"greenhouse.png",
-        "url":" https://www.loom.com/share/2c82220492874252b58d7281cdb58f36"
+        "title": "Greenhouse",
+        "category": "",
+        "image": "greenhouse.png",
+        "url": " https://www.loom.com/share/2c82220492874252b58d7281cdb58f36"
       },
       {
-        "title":"Sinatra: VG_Organizer",
-        "category":"",
-        "image":"sinatraOrg.png",
-        "url":"https://www.loom.com/share/a42196b2c7274cae80252ca2068bfaa4"
+        "title": "Sinatra: VG_Organizer",
+        "category": "",
+        "image": "sinatraOrg.png",
+        "url": "https://www.loom.com/share/a42196b2c7274cae80252ca2068bfaa4"
       },
       {
-        "title":"Rails: VG_Organizer",
-        "category":"",
-        "image":"railsOrg.png",
-        "url":"https://www.loom.com/share/07930337c7014ad58525f5773e0f4959"
+        "title": "Rails: VG_Organizer",
+        "category": "",
+        "image": "railsOrg.png",
+        "url": "https://www.loom.com/share/07930337c7014ad58525f5773e0f4959"
       },
       {
-        "title":"JavaScript: Wrap'd",
-        "category":"",
-        "image":"wrapd.png",
-        "url":"https://youtu.be/aIUuPbD15mU"
+        "title": "JavaScript: Wrap'd",
+        "category": "",
+        "image": "wrapd.png",
+        "url": "https://youtu.be/aIUuPbD15mU"
       },
       {
-        "title":"React: VG_Organizer",
-        "category":"",
-        "image":"reactOrg.png",
-        "url":"https://youtu.be/SZmGZ8oI8dI"
+        "title": "React: VG_Organizer",
+        "category": "",
+        "image": "reactOrg.png",
+        "url": "https://youtu.be/SZmGZ8oI8dI"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"",
-        "user":""
+        "text": "",
+        "user": ""
       },
       {
-        "text":"",
-        "user":""
+        "text": "",
+        "user": ""
       }
     ]
   }
