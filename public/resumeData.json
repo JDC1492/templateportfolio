@@ -18,6 +18,11 @@
     "resumedownload": "",
     "social": [
       {
+        "name": "facebook",
+        "url": "",
+        "className": ""
+      },
+      {
         "name": "",
         "url": "",
         "className": ""
@@ -27,7 +32,6 @@
         "url": "",
         "className": ""
       },
-
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/jonathan-cohen-bbb2891b4/",
@@ -64,6 +68,20 @@
         "degree": "Bachelors of Arts",
         "graduated": "May 2010",
         "description": "I studied media arts with a concentration in Audio Engineering/Production. Here is where I had my first experience with coding websites."
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
